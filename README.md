@@ -9,7 +9,7 @@
 
 항목 1 | 항목 2 | 항목 3
 ----- | ----- | -----
-내용을 | 추가할 | 수있다
+<img src="https://user-images.githubusercontent.com/80519614/219804708-771f7a50-8872-4669-8288-73ad667c8d37.png"> | 추가할 | 수있다
 여기서도 | *강조 기능이* | **작동한다**
 
 |  <img src="https://user-images.githubusercontent.com/80519614/219804708-771f7a50-8872-4669-8288-73ad667c8d37.png"> | ![image](https://user-images.githubusercontent.com/80519614/219805397-e379eebf-8db0-4508-b293-1533d4ad4941.png) |
