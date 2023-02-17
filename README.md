@@ -5,5 +5,6 @@
 
 <br/>
 ## Analysis
-<img src="https://user-images.githubusercontent.com/80519614/219804708-771f7a50-8872-4669-8288-73ad667c8d37.png" width="900"/>
+<br/>
+<img src="https://user-images.githubusercontent.com/80519614/219804708-771f7a50-8872-4669-8288-73ad667c8d37.png">
 
